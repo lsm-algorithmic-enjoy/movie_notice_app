@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie_notice_app/static/css/main.695e387f.css",
+    "main.js": "/movie_notice_app/static/js/main.244da6e8.js",
+    "index.html": "/movie_notice_app/index.html",
+    "main.695e387f.css.map": "/movie_notice_app/static/css/main.695e387f.css.map",
+    "main.244da6e8.js.map": "/movie_notice_app/static/js/main.244da6e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.695e387f.css",
+    "static/js/main.244da6e8.js"
+  ]
+}
